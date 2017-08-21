@@ -1,0 +1,10 @@
+C:\Users\ntegi\Source\repos\CicekSepetiJobApplcation\namiktahaegilli\bin\Debug\namiktahaegilli.exe.config
+C:\Users\ntegi\Source\repos\CicekSepetiJobApplcation\namiktahaegilli\bin\Debug\namiktahaegilli.exe
+C:\Users\ntegi\Source\repos\CicekSepetiJobApplcation\namiktahaegilli\bin\Debug\namiktahaegilli.pdb
+C:\Users\ntegi\Source\repos\CicekSepetiJobApplcation\namiktahaegilli\obj\Debug\namiktahaegilli.csprojResolveAssemblyReference.cache
+C:\Users\ntegi\Source\repos\CicekSepetiJobApplcation\namiktahaegilli\obj\Debug\namiktahaegilli.Form1.resources
+C:\Users\ntegi\Source\repos\CicekSepetiJobApplcation\namiktahaegilli\obj\Debug\namiktahaegilli.Properties.Resources.resources
+C:\Users\ntegi\Source\repos\CicekSepetiJobApplcation\namiktahaegilli\obj\Debug\namiktahaegilli.csproj.GenerateResource.Cache
+C:\Users\ntegi\Source\repos\CicekSepetiJobApplcation\namiktahaegilli\obj\Debug\namiktahaegilli.csproj.CoreCompileInputs.cache
+C:\Users\ntegi\Source\repos\CicekSepetiJobApplcation\namiktahaegilli\obj\Debug\namiktahaegilli.exe
+C:\Users\ntegi\Source\repos\CicekSepetiJobApplcation\namiktahaegilli\obj\Debug\namiktahaegilli.pdb
